@@ -1,0 +1,54 @@
+.heaDer{
+	margin:0 auto;
+	width:50%;
+	text-align:center;
+}
+
+.heaDer span{
+	display:block;
+
+}
+
+.f2048{
+	font-size:40px;
+	display:block;
+	margin:20px 0 20px 0 ;
+}
+
+
+.button1{
+	width:100px;
+	height:30px;
+	background:#6600ff;
+	color:white;
+	border-radius:10px;
+	margin-bottom:12px;
+}
+
+.content{
+	width:460px;
+	height:460px;
+	padding:20px;
+	background:#6666ff;
+	border-radius:10px;
+	margin:15px  auto;
+	position:relative;
+}
+
+.dyg{
+	width:100px;
+	height:100px;
+	background:#3399ff;
+	border-radius:10px;
+	position:absolute;
+}
+
+.number-cella{
+	border-radius:10px;
+	position:absolute;
+/* 	background:#99ffff; */
+	background:red;
+	font:bold 50px Arial;
+	text-align:center;
+	line-height:100px;
+}
